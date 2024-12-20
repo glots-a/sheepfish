@@ -40,6 +40,12 @@
 	<array>
 		<string>arm64</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+<string>Your message to the user requesting access to the photo library</string>
+<key>NSCameraUsageDescription</key>
+<string>Your message to the user requesting access to the camera</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>Your message to the user requesting access to the microphone (if needed)</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
